@@ -1,11 +1,11 @@
 # adblock-nepal
 Ad blocking rules for Nepali websites.
-Works with [uBlock](https://github.com/gorhill/uBlock) plugin in Edge, Firefox, Chrome, and other variants.
+Works with [uBlock Origin](https://github.com/gorhill/uBlock) plugin in Edge, Firefox, Chrome, and other variants.
 
 
 ## Installation
 
-uBlock: paste following line to your custom filters under `Show Dashboard -> 3rd-party filters -> textbox area at the very end of page` and click Apply changes:
+uBlock Origin: paste following line to your custom filters under `Show Dashboard -> 3rd-party filters -> textbox area at the very end of page` and click Apply changes:
 
 ```
 https://raw.githubusercontent.com/canmando/adblock-nepal/master/filter.txt
