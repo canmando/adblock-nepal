@@ -4,14 +4,16 @@
 ! Title: NPL: Adblock-Nepal
 !
 
-setopati.com###premium_slider
-setopati.com###top_ad_new
-setopati.com###laxmi_bank_ad
-setopati.com###ad-banner
-setopati.com##.ads_banner_click
-setopati.com##.ads_banner_click_1
-setopati.com##.ads_banner_click5
-setopati.com##.sharethis
+setopati.com##.sharelikes
+setopati.com##.fb-comments
+setopati.com###ads-banner
+setopati.com##.toprightad
+setopati.com##.wrappedad
+setopati.com##a[href="http://icc.setopati.com/"]
+||setopati.com/wp-content/uploads/*/*/hundai.gif$image
+||setopati.com/wp-content/uploads/*/*/nic-asia.gif$image
+||setopati.com/wp-content/uploads/*/*/sastheya-1.gif$image
+||setopati.com/wp-content/uploads/*/*/mahindra1.gif$image
 
 nagariknews.com##.below-article-ad
 nagariknews.com##.inner-add:nth-of-type(3)
