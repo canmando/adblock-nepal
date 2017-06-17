@@ -14,6 +14,7 @@ setopati.com##a[href="http://icc.setopati.com/"]
 ||setopati.com/wp-content/uploads/*/*/nic-asia.gif$image
 ||setopati.com/wp-content/uploads/*/*/sastheya-1.gif$image
 ||setopati.com/wp-content/uploads/*/*/mahindra1.gif$image
+||setopati.com/wp-content/uploads/*/*/*-ad.gif$image
 
 nagariknews.com##.below-article-ad
 nagariknews.com##.inner-add:nth-of-type(3)
