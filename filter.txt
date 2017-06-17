@@ -10,10 +10,10 @@ setopati.com###ads-banner
 setopati.com##.toprightad
 setopati.com##.wrappedad
 setopati.com##a[href="http://icc.setopati.com/"]
-||setopati.com/wp-content/uploads/*/*/hundai.gif$image
+||setopati.com/wp-content/uploads/*/*/hundai*.gif$image
 ||setopati.com/wp-content/uploads/*/*/nic-asia.gif$image
 ||setopati.com/wp-content/uploads/*/*/sastheya-1.gif$image
-||setopati.com/wp-content/uploads/*/*/mahindra1.gif$image
+||setopati.com/wp-content/uploads/*/*/mahindra*.gif$image
 ||setopati.com/wp-content/uploads/*/*/*-ad.gif$image
 
 nagariknews.com##.below-article-ad
