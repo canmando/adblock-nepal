@@ -1,6 +1,7 @@
 # adblock-nepal
 Ad blocking rules for Nepali websites.
 Works with [uBlock Origin](https://github.com/gorhill/uBlock) plugin in Edge, Firefox, Chrome, and other variants.
+Use this list along with default uBlock Origin filter lists: uBlock filter(s), EasyList, and EasyPrivacy.
 
 
 ## Installation
