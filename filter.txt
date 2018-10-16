@@ -3,47 +3,11 @@
 !
 ! Title: NPL: Adblock-Nepal
 !
-
-setopati.com###premium_slider
-setopati.com###top_ad_new
-setopati.com###laxmi_bank_ad
-setopati.com###ad-banner
-setopati.com##.ads_banner_click
-setopati.com##.ads_banner_click_1
-setopati.com##.ads_banner_click5
-setopati.com##.sharethis
-
-nagariknews.com##.below-article-ad
-nagariknews.com##.inner-add:nth-of-type(3)
-||www.nagariknews.com/bundles/nagarikfrontend/images/banner-*.jpg$image
-||www.nagariknews.com/bundles/nagarikfrontend/images/*.gif
-
 annapurnapost.com##.top_right_ads
 annapurnapost.com##.adbox
 annapurnapost.com##.banner
 
 ujyaaloonline.com##.ads_banner_click
-
-weeklynepal.com.np##.header-banner
-weeklynepal.com.np###buffercode_banner_upload_info-2
-weeklynepal.com.np###buffercode_banner_upload_info-5
-
-nepalipatra.com###mp-pusher > .container > .row > .col-md-12:nth-of-type(1)
-nepalipatra.com##.container > .row > .col-md-12:nth-of-type(2)
-nepalipatra.com##.rd-ads
-
-sajha.com###topbanners1
-sajha.com###topbanners2
-sajha.com###sajhapromotedid
-sajha.com###regiondivcontainer > div:nth-of-type(2)
-sajha.com###mainhome > tbody > tr > td:nth-of-type(2)
-sajha.com###mainhome > tbody > tr > td:nth-of-type(1) > div > table > tbody > tr:nth-of-type(1) > td:nth-of-type(2)
-sajha.com##td:nth-of-type(2) > .blockeee:nth-of-type(4)
-sajha.com##td:nth-of-type(1) > div:nth-of-type(4)
-||sajha.com/sajha/html/banners/
-
-||dainiknepal.com/wp-content/uploads/*/*/*.gif$image
-||dainiknepal.com/wp-content/uploads/*/*/ime.jpg$image
 
 ||pahilopost.com/*/*/headbanner/
 ||pahilopost.com/*/*/homebanner/
@@ -52,3 +16,19 @@ sajha.com##td:nth-of-type(1) > div:nth-of-type(4)
 ||himalkhabar.com/uploads/banner/
 
 ||youtube.com/annotations_
+
+kantipurdaily.com###roadblock-ad
+nepal.ekantipur.com###road-block
+
+||setopati.com/uploads/bigyapan/*.*$image
+
+||unncdn.prixa.net/media/*.gif$image
+
+www.nepalitimes.com##.ad-banner-gap
+www.nepalitimes.com##.adv-section
+
+annapurnapost.com##.col-xs-12 > div.advertisement
+annapurnapost.com##.sticky-footer
+annapurnapost.com##div.text-center.breaking-news-item:nth-of-type(3) > .advertisement
+annapurnapost.com##div.row:nth-of-type(5) > .advertisement
+annapurnapost.com##div.col-sm-6:nth-of-type(2) > .advertisement
