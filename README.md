@@ -6,7 +6,7 @@ Use this list along with default uBlock Origin filter lists: uBlock filter(s), E
 
 ## Installation
 
-uBlock Origin: paste following line to your custom filters under `Filter ists -> Custom -> Import` and click Apply changes:
+uBlock Origin: paste following line to your custom filters under `Filter lists -> Custom -> Import` and click Apply changes:
 ```
 https://raw.githubusercontent.com/canmando/adblock-nepal/master/filter.txt
 ```
