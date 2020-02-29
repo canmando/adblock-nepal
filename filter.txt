@@ -1,7 +1,7 @@
-[adblock-nepal]
+[nepal-list]
 ! Ad blocking rules for Nepali websites
 !
-! Title: NPL: Adblock-Nepal
+! Title: NPL: Nepal List
 !
 
 ujyaaloonline.com##.ads_banner_click
