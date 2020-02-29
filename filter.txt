@@ -3,32 +3,45 @@
 !
 ! Title: NPL: Adblock-Nepal
 !
-annapurnapost.com##.top_right_ads
-annapurnapost.com##.adbox
-annapurnapost.com##.banner
 
 ujyaaloonline.com##.ads_banner_click
 
 ||pahilopost.com/*/*/headbanner/
 ||pahilopost.com/*/*/homebanner/
 ||pahilopost.com/*/*/midadvertise/
+ujyaaloonline.com##[src="https://unncdn.prixa.net/media/*.jpeg"]
 
 ||himalkhabar.com/uploads/banner/
+||www.himalkhabar.com/uploads/bigyapan/*.gif$image
+||www.himalkhabar.com/uploads/bigyapan/*.jpeg$image
 
 ||youtube.com/annotations_
 
-kantipurdaily.com###roadblock-ad
-nepal.ekantipur.com###road-block
-
 ||setopati.com/uploads/bigyapan/*.*$image
+||img.setopati.org/uploads/bigyapan/*.gif$image
+www.setopati.com##.container.mast-head-ad
+||img.setopati.org/uploads/bigyapan/*.jpg$image
 
 ||unncdn.prixa.net/media/*.gif$image
 
 www.nepalitimes.com##.ad-banner-gap
 www.nepalitimes.com##.adv-section
 
+annapurnapost.com##.top_right_ads
+annapurnapost.com##.adbox
+annapurnapost.com##.banner
 annapurnapost.com##.col-xs-12 > div.advertisement
 annapurnapost.com##.sticky-footer
 annapurnapost.com##div.text-center.breaking-news-item:nth-of-type(3) > .advertisement
 annapurnapost.com##div.row:nth-of-type(5) > .advertisement
 annapurnapost.com##div.col-sm-6:nth-of-type(2) > .advertisement
+annapurnapost.com##.firstAd > .advertisement
+annapurnapost.com##[href="http://tatacarsnepal.tk/"]
+||bg.annapurnapost.com/uploads/media/*.gif$image
+
+ekantipur.com##.row > .static-sponsor
+||assets-cdn.kantipurdaily.com/uploads/source/ads/*.jpg$image
+ekantipur.com##.sticky--bottom__show.sticky--bottom
+ekantipur.com##.portrait.description > .static-sponsor
+
+www.nepalitimes.com##[href="https://www.nibl.com.np/"]
